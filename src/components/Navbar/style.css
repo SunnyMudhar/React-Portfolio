@@ -1,0 +1,43 @@
+@import '../../vars.css';
+
+.custom-nav {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    --bs-bg-opacity: 0 !important;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.navbar-brand {
+    padding-left: 8px;
+    font-weight: bold;
+    font-size: 2.5rem !important;
+}
+
+.nav-link {
+    padding-right: 2rem !important;
+    font-size: 1.5rem !important;
+}
+
+a {
+    color: var(--textColour) !important;
+    text-decoration: none !important;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: var(--highlightColor2) !important;
+}
+
+.navbar-toggler {
+    color: var(--textColour) !important;
+    background: var(--textColour);
+}
+
+.navbar-toggler:hover {
+    color: var(--textColour); 
+}
