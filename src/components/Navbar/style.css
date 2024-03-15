@@ -1,7 +1,7 @@
 @import '../../vars.css';
 
 .custom-nav {
-    position: absolute;
+    position: absolute !important;
     width: 100%;
     z-index: 10;
     --bs-bg-opacity: 0 !important;

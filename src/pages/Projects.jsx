@@ -1,11 +1,19 @@
+import Hero from '../components/Hero';
+import ProjectsGallery from '../components/ProjectsGallery';
+
 const Projects = () => {
     return (
-        <div className="">
-            <h2>Projects</h2>
-            <p>
-                Project 123
-            </p>
+        <>
+        <Hero>
+            <div className="col-lg-12">
+                <h1>PROJECTS</h1>
+                <h4>Please find below a list of my latest Projects!</h4>
+            </div>
+        </Hero>
+        <div className='projects'>
+            <ProjectsGallery />
         </div>
+        </>
     )
 }
 

@@ -1,0 +1,16 @@
+.project-card {
+    width: 35dvh;
+    margin: 5dvh;
+}
+
+.img-container {
+    height: 25vh;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.img-container img {
+    max-width: 100%;
+    max-height: 100%;
+    
+}

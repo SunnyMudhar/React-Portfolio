@@ -1,15 +1,15 @@
 .hero {
     display: flex;
     align-items: center;
-    background: url("../images/bg-img01.jpg");
+    background: url("../../assets/images/bg-img01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 500px !important;
     box-shadow: inset 0 0 0 2000px #272640c0;
     justify-content: center;
     text-align: center;
 }
 
 .hero img {
-    height: 20rem;
+    height: 20rem !important;
 }
