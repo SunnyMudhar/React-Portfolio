@@ -1,3 +1,4 @@
+import Cv from '../../assets/documents/SunielMudhar_CV.pdf'
 import Container from '../Container';
 import Row from '../Row'
 import './style.css'
@@ -17,7 +18,7 @@ const About = () => {
                     <p className='cv-text'>
                         Want to know more about my professional work history? Take a look at my CV.
                     </p>
-                    <a href="src/assets/documents/SunielMudhar_CV.pdf" download="SunielMudhar_CV.pdf"><button type="button" class="btn btn-primary btn-download">Download CV</button></a>
+                    <a href={ Cv } download="SunielMudhar_CV.pdf"><button type="button" class="btn btn-primary btn-download">Download CV</button></a>
                 </div>
             </Row>
         </Container>
