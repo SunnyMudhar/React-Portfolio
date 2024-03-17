@@ -4,7 +4,7 @@ function ContactCard(props) {
   return (
     <div className="card contact-card">
       <div className="content">
-        <img className="contact-img" src={`/assets/images/${props.img}`} alt={props.title} />
+        <img className="contact-img" src={`src/assets/images/${props.img}`} alt={props.title} />
         <p>
           {props.title}
         </p>
