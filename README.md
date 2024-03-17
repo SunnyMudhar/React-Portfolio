@@ -39,7 +39,6 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
 
   ## Table of Contents
   * [Installation](#Installation)
-  * [Usage](#Usage)
   * [Contributors](#Contributors)
   * [Testing](#Test)
   * [License](#lLicense)
@@ -59,7 +58,7 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
   Following tools were used inorder to create this project: 
 
   * [icon8](https://www.npmjs.com/package/@fontsource/poppins) - Technology icons.
-  * [FontAwesome](ttps://fontawesome.com/) - Social icons.
+  * [FontAwesome](https://fontawesome.com/) - Social icons.
   * [Font Source Poppins](https://www.npmjs.com/package/@fontsource/poppins) - Poppins font.
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - For CSS styling components
   * [Vite](https://vitejs.dev/) - Create the React project.
@@ -67,6 +66,9 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
 
   ## Testing
   To test the portfolio, please go to the Netlify link found at the bottom of the README to start navigating through the portfolio. Likewise, you can deploy the repo locally using the installation instructions provided.
+
+  ## Deployment
+  [Netlify](https://sm-reactportfolio.netlify.app/)
 
   ## Questions
   For any questions relating to this repo, React-Portfolio, please feel free to contact me or find more of my work at https://github.com/sunielmudhar.
