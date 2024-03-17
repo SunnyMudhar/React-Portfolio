@@ -21,60 +21,59 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
 ### Base Requirements
 
 * Technologies that must be used:
-  * [ ] React
-  * [ ] Navigation with `React Router`, dynamic rendering, or another third part router
+  * [x] React
+  * [x] Navigation with `React Router`, dynamic rendering, or another third part router
 * Your portfolio **must contain** the following information:
-  * [ ] Your name
-  * [ ] Links to your:
-    * [ ] GitHub Profile
-    * [ ] LinkedIn Page
-    * [ ] Email Address
-    * [ ] Phone Number - (optional)
-    * [ ] PDF version of your resume
+  * [x] Your name
+  * [x] Links to your:
+    * [x] GitHub Profile
+    * [x] LinkedIn Page
+    * [x] Email Address
+    * [x] PDF version of your resume
       * Your resume **must** contain up-to-date projects and professional experience
-    * [ ] A list of projects (Challenges or Projects). For each project, make sure you have the following:
-      * [ ] Project title
-      * [ ] Link to the deployed version
-      * [ ] Link to the GitHub repository
-      * [ ] GIF or screenshot of the deployed application
+    * [x] A list of projects (Challenges or Projects). For each project, make sure you have the following:
+      * [x] Project title
+      * [x] Link to the deployed version
+      * [x] Link to the GitHub repository
+      * [x] GIF or screenshot of the deployed application
 
 ### Required Components
 
 * At a minium, your portfolio must render these 6 components:
-  1. [ ] App
-  2. [ ] Header
-  4. [ ] Home
-  5. [ ] Project Gallery
-  6. [ ] Project
-  7. [ ] Contact
+  1. [x] App
+  2. [x] Header
+  4. [x] Home
+  5. [x] Project Gallery
+  6. [x] Project
+  7. [x] Contact
 
 ### Required Component Content
 
-* [ ] App:
-  * [ ] Must be your top level component and render all necessary children components
-* [ ] Header:
-  * [ ] Must be rendered across the entire site
-  * [ ] Must Contain a Navbar
-* [ ] Project Gallery:
-  * [ ] Must render dynamically 6 instances of the Project component
-    * [ ] Be sure to store your project data in a JSON file and import it into your project
-* [ ] Project:
-  * [ ] Must be a reusable component that ingests JSON data as a props and renders a single instance for each project.
-  * [ ] Must utilize router props to properly render the right project based on user selection
-  * [ ] Must render the following info:
-    * [ ] Project title
-    * [ ] Link to the deployed version
-    * [ ] Link to the GitHub repository
-    * [ ] GIF or screenshot of the deployed application
-* [ ] Contact:
-  * [ ] Must have contact information
+* [x] App:
+  * [x] Must be your top level component and render all necessary children components
+* [x] Header:
+  * [x] Must be rendered across the entire site
+  * [x] Must Contain a Navbar
+* [x] Project Gallery:
+  * [x] Must render dynamically 6 instances of the Project component
+    * [x] Be sure to store your project data in a JSON file and import it into your project
+* [x] Project:
+  * [x] Must be a reusable component that ingests JSON data as a props and renders a single instance for each project.
+  * [x] Must utilize router props to properly render the right project based on user selection
+  * [x] Must render the following info:
+    * [x] Project title
+    * [x] Link to the deployed version
+    * [x] Link to the GitHub repository
+    * [x] GIF or screenshot of the deployed application
+* [x] Contact:
+  * [x] Must have contact information
   * [ ] Have a contact form for handling events
-* [ ] Home:
+* [x] Home:
   * This should be a welcome landing page that contains:
-    * [ ] Your Name
-    * [ ] A Headshot of you
-    * [ ] Your brand statement
-    * [ ] Some indication that this is your portfolio site
+    * [x] Your Name
+    * [x] A Headshot of you
+    * [x] Your brand statement
+    * [x] Some indication that this is your portfolio site
 
 ### Updated Social Media Presence
 

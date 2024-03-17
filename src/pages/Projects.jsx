@@ -1,5 +1,7 @@
 import Hero from '../components/Hero';
 import ProjectsGallery from '../components/ProjectsGallery';
+import Footer from '../components/Footer';
+
 
 const Projects = () => {
     return (
@@ -13,6 +15,7 @@ const Projects = () => {
         <div className='projects'>
             <ProjectsGallery />
         </div>
+        <Footer />
         </>
     )
 }

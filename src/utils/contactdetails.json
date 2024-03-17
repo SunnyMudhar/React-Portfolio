@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Email",
+        "img": "src/assets/images/envelope-solid.svg",
+        "link": "sunielmudhar1@gmail.com"
+    },
+    {
+        "title": "LinkedIn",
+        "img": "src/assets/images/linkedin.svg",
+        "link": "https://www.linkedin.com/in/suniel-mudhar-9885b0152/"
+    },
+    {
+        "title": "GitHub",
+        "img": "src/assets/images/github.svg",
+        "link": "https://github.com/sunielmudhar"
+    }
+]

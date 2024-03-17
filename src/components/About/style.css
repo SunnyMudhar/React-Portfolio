@@ -1,0 +1,21 @@
+.download {
+    margin-top: 5dvh;
+    text-align: center !important;
+}
+
+.btn-download {
+    color: var(--textColor);
+    border-color: var(--highlightColor);
+    border-radius: 25px !important;
+    background-color: var(--secondaryColour);
+}
+
+.btn-download:hover {
+    border-color: var(--secondaryColour);
+    background-color: var(--highlightColor2);
+}
+
+.btn-download:active {
+    border-color: var(--secondaryColour) !important;
+    background-color: var(--secondaryColour) !important;
+}

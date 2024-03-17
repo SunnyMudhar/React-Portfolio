@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 https://icons8.com/icons/set/nodejs - logos
+https://fontawesome.com/
+Bootstrap
+https://www.npmjs.com/package/@fontsource/poppins
+React-router
