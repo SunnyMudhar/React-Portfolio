@@ -6,12 +6,12 @@
     },
     {
         "title": "LinkedIn",
-        "img": "../assets/images/linkedin.svg",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/b2ce9e3427fdddf0a16db7f79808bd744b1f8a24/src/assets/images/github.svg",
         "link": "https://www.linkedin.com/in/suniel-mudhar-9885b0152/"
     },
     {
         "title": "GitHub",
-        "img": "../assets/images/github.svg",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/b2ce9e3427fdddf0a16db7f79808bd744b1f8a24/src/assets/images/linkedin.svg",
         "link": "https://github.com/sunielmudhar"
     }
 ]

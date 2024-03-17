@@ -1,37 +1,37 @@
 [
     {
         "title": "CareerSync",
-        "img": "careersync-logo.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/careersync-logo.png",
         "repo": "https://github.com/sunielmudhar/CareerSync",
         "deployed": "https://career-sync.netlify.app/"
     },
     {
         "title": "BrumExplorer",
-        "img": "brumexplorer.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/brumexplorer.png",
         "repo": "https://github.com/sunielmudhar/BrumExplorer",
         "deployed": "https://sunielmudhar.github.io/BrumExplorer/"
     },
     {
         "title": "Weather Dashboard",
-        "img": "weather-dashboard.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/weather-dashboard.png",
         "repo": "https://github.com/sunielmudhar/Weather-Dashboard",
         "deployed": "https://sunielmudhar.github.io/Weather-Dashboard/"
     },
     {
         "title": "Planner Application",
-        "img": "planner-app.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/planner-app.png",
         "repo": "https://github.com/sunielmudhar/planner-app",
         "deployed": "https://sunielmudhar.github.io/planner-app/"
     },
     {
         "title": "README Generator",
-        "img": "readme-generator.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/ReadME-Generator.png",
         "repo": "https://github.com/sunielmudhar/ReadMe-Generator",
         "deployed": "https://github.com/sunielmudhar/ReadMe-Generator"
     },
     {
         "title": "Code Quiz",
-        "img": "code-quiz.png",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/code-quiz.png",
         "repo": "https://github.com/sunielmudhar/Code-Quiz",
         "deployed": "https://sunielmudhar.github.io/Code-Quiz/"
     }

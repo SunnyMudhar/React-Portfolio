@@ -1,26 +1,26 @@
 [
     {
         "title": "HTML",
-        "img": "icons8-html-5-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-html-5-240.png"
     },
     {
         "title": "CSS",
-        "img": "icons8-css3-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-css3-240.png"
     },
     {
         "title": "JavaScript - ES6",
-        "img": "icons8-javascript-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-javascript-240.png"
     },
     {
         "title": "React",
-        "img": "icons8-react-native-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-react-native-240.png"
     },
     {
         "title": "NodeJS",
-        "img": "icons8-nodejs-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-nodejs-240.png"
     },
     {
         "title": "Bootstrap",
-        "img": "icons8-bootstrap-240.png"
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/main/src/assets/images/icons8-bootstrap-240.png"
     }
 ]
