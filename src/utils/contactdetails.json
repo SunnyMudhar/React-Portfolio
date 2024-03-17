@@ -1,17 +1,17 @@
 [
     {
         "title": "Email",
-        "img": "envelope-solid.svg",
+        "img": "https://raw.githubusercontent.com/sunielmudhar/React-Portfolio/64f9b0e5e8c5c2c5b1c2d388d707ace6dccc857f/src/assets/images/envelope-solid.svg",
         "link": "sunielmudhar1@gmail.com"
     },
     {
         "title": "LinkedIn",
-        "img": "linkedin.svg",
+        "img": "../assets/images/linkedin.svg",
         "link": "https://www.linkedin.com/in/suniel-mudhar-9885b0152/"
     },
     {
         "title": "GitHub",
-        "img": "github.svg",
+        "img": "../assets/images/github.svg",
         "link": "https://github.com/sunielmudhar"
     }
 ]
