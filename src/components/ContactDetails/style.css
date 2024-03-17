@@ -10,6 +10,7 @@
     background-color: var(--secondaryColour) !important;
     border-color: var(--secondaryColour) !important;
     transition: all .2s ease-in-out;
+    margin-bottom: 15dvh;
 }
 
 .contact-card:hover {

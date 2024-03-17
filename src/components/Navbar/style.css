@@ -39,5 +39,7 @@ a:hover {
 }
 
 .navbar-toggler:hover {
-    color: var(--textColour); 
+    color: var(--textColour);
+    --bs-navbar-toggler-border-color: var(--textColour);
+    background: var(--textColour);
 }

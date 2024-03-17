@@ -7,8 +7,6 @@ body,
 #root,
 #root > div,
 div[data-reactroot] {
-  height: 100%;
-  width: 100%;
   font-family: 'Poppins', 'Helvetica';
   color: var(--textColour) !important;
   background-color: var(--primaryColour);

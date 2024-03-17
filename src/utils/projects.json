@@ -1,13 +1,13 @@
 [
     {
         "title": "CareerSync",
-        "img": "careersync-logo.jpg",
+        "img": "careersync-logo.png",
         "repo": "https://github.com/sunielmudhar/CareerSync",
         "deployed": "https://career-sync.netlify.app/"
     },
     {
         "title": "BrumExplorer",
-        "img": "brumlogo.png",
+        "img": "brumexplorer.png",
         "repo": "https://github.com/sunielmudhar/BrumExplorer",
         "deployed": "https://sunielmudhar.github.io/BrumExplorer/"
     },
