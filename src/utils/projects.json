@@ -1,37 +1,37 @@
 [
     {
         "title": "CareerSync",
-        "img": "/assets/images/CareerSync-logo.jpg",
+        "img": "/src/assets/images/careersync-logo.jpg",
         "repo": "https://github.com/sunielmudhar/CareerSync",
         "deployed": "https://career-sync.netlify.app/"
     },
     {
         "title": "BrumExplorer",
-        "img": "/assets/images/brumlogo.png",
+        "img": "/src/assets/images/brumlogo.png",
         "repo": "https://github.com/sunielmudhar/BrumExplorer",
         "deployed": "https://sunielmudhar.github.io/BrumExplorer/"
     },
     {
         "title": "Weather Dashboard",
-        "img": "/assets/images/weather-dashboard.png",
+        "img": "/src/assets/images/weather-dashboard.png",
         "repo": "https://github.com/sunielmudhar/Weather-Dashboard",
         "deployed": "https://sunielmudhar.github.io/Weather-Dashboard/"
     },
     {
         "title": "Planner Application",
-        "img": "/assets/images/planner-app.png",
+        "img": "/src/assets/images/planner-app.png",
         "repo": "https://github.com/sunielmudhar/planner-app",
         "deployed": "https://sunielmudhar.github.io/planner-app/"
     },
     {
         "title": "README Generator",
-        "img": "/assets/images/ReadME-Generator.png",
+        "img": "/src/assets/images/readme-generator.png",
         "repo": "https://github.com/sunielmudhar/ReadMe-Generator",
         "deployed": "https://github.com/sunielmudhar/ReadMe-Generator"
     },
     {
         "title": "Code Quiz",
-        "img": "/assets/images/code-quiz.png",
+        "img": "/src/assets/images/code-quiz.png",
         "repo": "https://github.com/sunielmudhar/Code-Quiz",
         "deployed": "https://sunielmudhar.github.io/Code-Quiz/"
     }

@@ -4,15 +4,15 @@
 }
 
 .btn-download {
-    color: var(--textColor);
-    border-color: var(--highlightColor);
+    color: var(--textColor) !important;
+    border-color: var(--highlightColor) !important;
     border-radius: 25px !important;
-    background-color: var(--secondaryColour);
+    background-color: var(--secondaryColour) !important;
 }
 
 .btn-download:hover {
-    border-color: var(--secondaryColour);
-    background-color: var(--highlightColor2);
+    border-color: var(--secondaryColour) !important;
+    background-color: var(--highlightColor2) !important;
 }
 
 .btn-download:active {
