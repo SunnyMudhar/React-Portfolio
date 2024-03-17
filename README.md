@@ -58,7 +58,7 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
   Following tools were used inorder to create this project: 
 
   * [icon8](https://www.npmjs.com/package/@fontsource/poppins) - Technology icons.
-  * [FontAwesome](ttps://fontawesome.com/) - Social icons.
+  * [FontAwesome](https://fontawesome.com/) - Social icons.
   * [Font Source Poppins](https://www.npmjs.com/package/@fontsource/poppins) - Poppins font.
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - For CSS styling components
   * [Vite](https://vitejs.dev/) - Create the React project.
