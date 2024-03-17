@@ -1,3 +1,7 @@
+.title {
+    margin-bottom: 5dvh !important;
+}
+
 .contact-card {
     height: 27.5dvh !important;
     width: 50dvw;
@@ -15,11 +19,4 @@
 
 p {
     color: var(--textColour);
-}
-
-.contact-card img {
-    margin: 1rem;
-    height: 10%;
-    border-radius: 100%;
-    background-color: var(--primaryColour);
 }

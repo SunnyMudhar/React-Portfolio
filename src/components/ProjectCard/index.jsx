@@ -4,19 +4,19 @@ function ProjectCard(props) {
   return (
     <div className="card project-card">
       <div className="img-container">
-        <img className="project-img" src={`./src/assets/images/${props.img}`} alt={props.title} />
+        <img className="project-img" src={`/src/assets/images/${props.img}`} alt={props.title} />
       </div>
       <div className="content">
         <ul>
-          <li>
+          <p>
             <strong>Title:</strong> {props.title}
-          </li>
-          <li>
+          </p>
+          <p>
             <strong>Repo:</strong> <a href={props.repo}>GitHub</a>
-          </li>
-          <li>
+          </p>
+          <p>
             <strong>Deployment:</strong> <a href={props.deployed}>Deployment Link</a> 
-          </li>
+          </p>
         </ul>
       </div>
     </div>
