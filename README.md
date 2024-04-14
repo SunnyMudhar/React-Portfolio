@@ -48,7 +48,7 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
   ### Prerequisites:
   Node.js and npm (Node Package Manager) should be installed. You can download and install them from the official Node.js website.
 
-  * Clone Repository: git clone https://github.com/sunielmudhar/React-Portfolio
+  * Clone Repository: git clone https://github.com/sunnymudhar/React-Portfolio
   * Navigate to Directory: cd React-Portfolio
   * Install Dependencies: npm install or npm i
   * Run Development Server: npm run dev
@@ -71,7 +71,7 @@ Welcome to my portfolio site! This project serves as a showcase of my skills and
   [Netlify](https://sm-reactportfolio.netlify.app/)
 
   ## Questions
-  For any questions relating to this repo, React-Portfolio, please feel free to contact me or find more of my work at https://github.com/sunielmudhar.
+  For any questions relating to this repo, React-Portfolio, please feel free to contact me or find more of my work at https://github.com/sunnymudhar.
 
   ## License
   Licensed under MIT.
